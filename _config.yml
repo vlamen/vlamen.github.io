@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Site Title
+title: Vlado Menkovski
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Vlado Menkovski
+  avatar: vlado.jpg
+  bio: "Assistant Professor at Eindhoven University of Technology."
+  email: v.[lastname]@tue.nl 
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
