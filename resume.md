@@ -3,30 +3,32 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Assistant Professor, Data Mining Group, Mathematics and Computer Science Department, Eidhoven University of Technology
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2009 - 2013`
+__Eindhoven University of Technology__
+Ph.D.
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2006 - 2008`
+__Carnegie Mellon University__
+Master of Science
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2014`
+Best Ph.D. Project, Eindhoven University of Technology 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.com/citations?user=2s9HUEMAAAAJ) 
 
+
+<!--
 ### Journals
 
-`1994`
+ `1994`
 Article Title, Journal Title
 
 `1994`
@@ -61,7 +63,7 @@ __Current Job Title__, Current Employer
 - Task
 - Task
 
-
+-->
 
 <!-- ### Footer
 
