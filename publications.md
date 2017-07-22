@@ -1,6 +1,6 @@
 ---
-layout: post-index
-title: All Blog Posts
+layout: publications-index
+title: Selected publications
 ---
 
 

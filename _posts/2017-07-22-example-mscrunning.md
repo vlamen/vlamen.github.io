@@ -5,7 +5,7 @@ excerpt: "..."
 modified: 07/22/2017, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
-category: blog
+category: mscrunning
 ---
 
 Nothing to see...
