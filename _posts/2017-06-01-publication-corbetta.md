@@ -5,7 +5,7 @@ excerpt: "Overhead depth map measurements capture sufficient amount of informati
 modified: 06/9/2017, 9:00:24
 tags: [computer vision, convolutional neural networks, deep learning, weak supervision]
 comments: true
-category: blog
+category: publication
 ---
 
 **Abstract** 

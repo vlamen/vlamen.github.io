@@ -5,7 +5,7 @@ excerpt: "Signature extraction is a critical preprocessing step in forensic log 
 modified: 28/4/2017, 9:00:24
 tags: [computer security, recurrent neural networks, deep learning, neural language model]
 comments: false
-category: blog
+category: publication
 ---
 
 **Abstract** 

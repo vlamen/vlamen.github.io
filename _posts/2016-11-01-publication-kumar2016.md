@@ -5,7 +5,7 @@ excerpt: "One of the main challenges for broad adoption of deep convolutional ne
 modified: 22/11/2016, 9:00:24
 tags: [computer vision, convolutional neural networks, deep learning, medical image analysis]
 comments: false
-category: blog
+category: publication
 ---
 
 **Abstract** 
