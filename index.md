@@ -17,14 +17,16 @@ I am part of the Data Mining group at Eindhoven University of Technology. My int
 
 **[July 2017]**
 
-We have multiple PhD and Postdoc positions in machine learning inluding applications of deep learning. More info on the group website, prof. Pechenizkiy's website and the TU/e vaccancy website. Please conctact by email if interested or apply on the TU/e vacancy website. 
+We have multiple PhD and Postdoc positions in machine learning inluding applications of deep learning. More info on the group website, prof. Pechenizkiy's [website](http://www.win.tue.nl/~mpechen/) and the TU/e vaccancy [website](https://jobs.tue.nl/en/vacancies.html). Please conctact us by email if you are interested or apply on the TU/e vacancy [website](https://jobs.tue.nl/en/vacancies.html). 
 
 # Students, projects and collaborations
 
-* Rabobank - Iftitahu Ni'mah
-	* Natural Language Processing, learning feature representation from text data
-* Stefan Thaler 
-	* Modelling sequential data for Computer Security
+* **Iftitahu Ni'mah, Oren Zeev Ben Mordehay, Simon van der Zon**
+	* Project: mpulseKYC-Analytics (with Rabobank)
+	* Topics: Natural Language Processing, learning feature representation from unstructured and text data
 
-* Alessandro Corbetta
-	* Computer vision for pedestrian tracking
+* **Stefan Thaler** 
+	* Topics: Modelling sequential data for Computer Security ([publications](/publications/))
+
+* [**dr. Alessandro Corbetta**](http://corbetta.phys.tue.nl/)
+	* Computer vision for pedestrian tracking ([publications](/publications/))
