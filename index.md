@@ -26,7 +26,7 @@ We have multiple PhD and Postdoc positions in machine learning inluding applicat
 	* Topics: Natural Language Processing, learning feature representation from unstructured and text data
 
 * **Stefan Thaler** 
-	* Topics: Modelling sequential data for Computer Security ([publications](/publications/))
+	* Topics: Modelling sequential data for Computer Security ([publications]({{site.ur}}/publications/))
 
 * [**dr. Alessandro Corbetta**](http://corbetta.phys.tue.nl/), [**Federico Toschi**](http://toschi.phys.tue.nl/)
-	* Computer vision for pedestrian tracking ([publications](/publications/))
+	* Computer vision for pedestrian tracking ([publications]({{site.url}}/publications/))
