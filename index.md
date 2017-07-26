@@ -21,12 +21,12 @@ We have multiple PhD and Postdoc positions in machine learning inluding applicat
 
 # Students, projects and collaborations
 
-* **Iftitahu Ni'mah, Oren Zeev Ben Mordehay, Simon van der Zon**
+* **Iftitahu Ni'mah, Oren Zeev Ben Mordehay, Simon van der Zon, [Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/), [Mykola Pechenizkiy](http://www.win.tue.nl/~mpechen/)**
 	* Project: mpulseKYC-Analytics (with Rabobank)
 	* Topics: Natural Language Processing, learning feature representation from unstructured and text data
 
 * **Stefan Thaler** 
 	* Topics: Modelling sequential data for Computer Security ([publications](/publications/))
 
-* [**dr. Alessandro Corbetta**](http://corbetta.phys.tue.nl/)
+* [**dr. Alessandro Corbetta**](http://corbetta.phys.tue.nl/), [**Federico Toschi**](http://toschi.phys.tue.nl/)
 	* Computer vision for pedestrian tracking ([publications](/publications/))
