@@ -2,7 +2,7 @@
 layout: post
 title: Weakly supervised training of deep convolutional neural networks for overhead pedestrian localization in depth fields 
 authors: Alessandro Corbetta, Vlado Menkovski, Federico Toschi
-excerpt: "Overhead depth map measurements capture sufficient amount of information to enable human experts to track pedestrians accurately. However, fully automating this process using image analysis algorithms can be challenging. Even though hand-crafted image analysis algorithms are successful in many common cases, they fail frequently when there are complex interactions of multiple objects in the image. Many of the assumptions underpinning the hand-crafted solutions do not hold in these cases and the multitude of ..."
+excerpt: Corbetta, Alessandro, Vlado Menkovski, and Federico Toschi. "Weakly supervised training of deep convolutional neural networks for overhead pedestrian localization in depth fields." arXiv preprint arXiv:1706.02850 (2017).
 modified: 06/9/2017, 9:00:24
 tags: [computer vision, convolutional neural networks, deep learning, weak supervision]
 comments: true
