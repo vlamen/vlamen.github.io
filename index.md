@@ -17,7 +17,7 @@ I am part of the Data Mining group at Eindhoven University of Technology. My int
 
 **[July 2017]**
 
-We have multiple PhD and Postdoc positions in machine learning inluding applications of deep learning. More info on the group website, prof. Pechenizkiy's [website](http://www.win.tue.nl/~mpechen/) and the TU/e vaccancy [website](https://jobs.tue.nl/en/vacancies.html). Please conctact us by email if you are interested or apply on the TU/e vacancy [website](https://jobs.tue.nl/en/vacancies.html). 
+We have multiple PhD and Postdoc positions in machine learning inluding applications of deep learning. More info on the group website, prof. Pechenizkiy's [website](http://www.win.tue.nl/~mpechen/) and the TU/e vaccancy [website](https://jobs.tue.nl/en/vacancies.html). Please contact us by email if you are interested or apply on the TU/e vacancy [website](https://jobs.tue.nl/en/vacancies.html). 
 
 # Students, projects and collaborations
 
