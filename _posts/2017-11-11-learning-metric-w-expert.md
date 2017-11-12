@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning efficiently from expert feedback on digital pathology images 
+title: Learnin§g efficiently from expert feedback on digital pathology images 
 excerpt: "Metric learning on medical images with weak supervision"
 modified: 11/12/2017, 10:09:00
 tags: [metric learning, weak supervision, neural networks, deep learning, medical image analysis]
@@ -8,9 +8,9 @@ comments: false
 category: mscproject
 ---
 
-Deep Learning methods given enough annotated data have shown superior performance in many image analysis settings. However, in many domain such as medical image analysis annotations by domain expers (i.e. radiologist, pathologist) are exceedingly expensive to acquire. The typical workflow of these experts does not require that they annotate all regions of the image to full detail. Furthermore, ground truth is commonnly established by follow-up tests (such as molecular test on the specific region). Given this the annotations are usually very sparse and with significant noise. Rather than taking the usaual end-to-end learning approach in this project the goal is to develop a iterative learning approach that establish communication between the algorithm and the expert.
+Deep Learning methods given enough annotated data have shown superior performance in many image analysis settings. However, in many domain such as medical image analysis annotations by domain experts (i.e. radiologist, pathologist) are exceedingly expensive to acquire. The typical workflow of these experts does not require that they annotate all regions of the image to full detail. Furthermore, ground truth is commonly established by follow-up tests (such as molecular test on the specific region). Given this the annotations are usually very sparse and with significant noise. Rather than taking the usual end-to-end learning approach in this project the goal is to develop a iterative learning approach that establish communication between the algorithm and the expert.
 
-In this setup the algorithm proposes labelling of the given regions in a digital pathology image with tissue sub-types. The expert can then interact with the propsed regions by making corrections or confirmations that the algorithm needs to incorporate into it's learning process and propose up-dated solutions given the learnings.
+In this setup the algorithm proposes labelling of the given regions in a digital pathology image with tissue sub-types. The expert can then interact with the proposed regions by making corrections or confirmations that the algorithm needs to incorporate into it's learning process and propose up-dated solutions given the feedback.
 
 The proposed direction for the project solution falls with-in the unsupervised and semi-supervised domain of machine learning. The solutions could build from work done on Siamese network [1], Triplet network [2] and diffusion maps [3] for metric learning, Variational autoencoders [4] and Ladder networks [5] for unsupervised and semi-supervised learning.
 

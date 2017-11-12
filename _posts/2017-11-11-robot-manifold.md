@@ -8,7 +8,7 @@ comments: false
 category: mscproject
 ---
 
-Deep Learning (DL) methods have shown significant success learnig complex model from low level data such as pixel in images or video [1]. In this master project, you will investigate how the little robot Cozmo can learn, by himself, the geometry of the space it lives in, using methods from unsupervised machine-learning. These methods can extract the most important features, and in fact underlying low-dimensional geometry in high-dimensional data [2][3][4]. The goal is to use this constructed geometry to orient it self in the given space.
+Deep Learning (DL) methods have shown significant success learning complex model from low level data such as pixel in images or video [1]. In this master project, you will investigate how the little robot Cozmo can learn, by himself, the geometry of the space it lives in, using methods from unsupervised machine-learning. These methods can extract the most important features, and in fact underlying low-dimensional geometry in high-dimensional data [2][3][4]. The goal is to use this constructed geometry to orient it self in the given space.
 
 Cozmo has a front-facing camera, with which it shoots 15-30 pictures per second. These pictures are stored as matrices with gray-scale values. If the room around Cozmo does not change, there are really only four coordinates that, up to noise, completely determine the picture that Cozmo records: Cozmo's xy-coordinates in the plane, its orientation and the tilt of its head. These are easy to identify by us humans as outside observers, but this project is all about letting Cozmo learn this representation by himself.
 
