@@ -14,5 +14,7 @@ The quality of the generated data of GAN models for many types of data is typica
 In this project we propose to build on top of advances in psythometics on subjective perception of stimuli [2][3] and advances in generative models in deep learning to develop a solution for generation of natural images that can benefit from feedback on subjective perception of 'realness' in the generated images. 
 
 [1] [GAN Goodfellow paperGoodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.](http://papers.nips.cc/paper/5423-generative-adversarial-nets)
+
 [2] [Maloney, Laurence T., and Joong Nam Yang. "Maximum likelihood difference scaling." Journal of Vision 3.8 (2003): 5-5.](http://jov.arvojournals.org/article.aspx?articleid=2192635)
+
 [3] [Menkovski, Vlado, and Antonio Liotta. "Adaptive psychometric scaling for video quality assessment." Signal Processing: Image Communication 27.8 (2012): 788-799.Menkovski MLDS QoE paper](http://www.sciencedirect.com/science/article/pii/S0923596512000136)

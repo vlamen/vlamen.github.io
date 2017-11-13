@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learnin§g efficiently from expert feedback on digital pathology images 
+title: Learning efficiently from expert feedback on digital pathology images 
 excerpt: "Metric learning on medical images with weak supervision"
 modified: 11/12/2017, 10:09:00
 tags: [metric learning, weak supervision, neural networks, deep learning, medical image analysis]
@@ -18,7 +18,11 @@ In this project there may be possibilities to collaborate with experts from medi
 
 
 [1] [Chopra, Sumit, Raia Hadsell, and Yann LeCun. "Learning a similarity metric discriminatively, with application to face verification." Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on. Vol. 1. IEEE, 2005.](http://ieeexplore.ieee.org/abstract/document/1467314/figures)
+
 [2] [Hoffer, Elad, and Nir Ailon. "Deep metric learning using triplet network." International Workshop on Similarity-Based Pattern Recognition. Springer, Cham, 2015.](https://link.springer.com/chapter/10.1007/978-3-319-24261-3_7)
+
 [3] [Coifman, Ronald R., and Stéphane Lafon. "Diffusion maps." Applied and computational harmonic analysis 21.1 (2006): 5-30.](http://www.sciencedirect.com/science/article/pii/S1063520306000546)
+
 [4] [Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).](https://arxiv.org/abs/1312.6114)
+
 [5] [Rasmus, Antti, et al. "Semi-supervised learning with ladder networks." Advances in Neural Information Processing Systems. 2015.](http://papers.nips.cc/paper/5947-semi-supervised-learning-with-ladder-networks)

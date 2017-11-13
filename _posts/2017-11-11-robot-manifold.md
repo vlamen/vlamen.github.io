@@ -17,6 +17,9 @@ Once Cozmo can reliably learn the geometry in stationary rooms, you will examine
 This project will be jointly supervised by Jim Portegis and Vlado Menkovski
  
 [1] [Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).](https://arxiv.org/abs/1312.5602)
+
 [2] [Coifman, Ronald R., and Stéphane Lafon. "Diffusion maps." Applied and computational harmonic analysis 21.1 (2006): 5-30.](http://www.sciencedirect.com/science/article/pii/S1063520306000546)
+
 [3] [Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).](https://arxiv.org/abs/1312.6114)
+
 [4] [Roweis, Sam T., and Lawrence K. Saul. "Nonlinear dimensionality reduction by locally linear embedding." science 290.5500 (2000): 2323-2326.](http://science.sciencemag.org/content/290/5500/2323)
