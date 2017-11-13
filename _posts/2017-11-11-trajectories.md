@@ -16,9 +16,8 @@ We consider expanding the scope of any developed methods to other time series da
 
 This project will involve supervision from Alessandro Corbetta and Vlado Menkovski
  
-[1] [](A. Corbetta, C. Lee, R. Benzi, A. Muntean, F. Toschi. Fluctuations around mean walking behaviours in diluted pedestrian flows, Phys. Rev. E. 95, 032316, 2017
-)
+[1] [A. Corbetta, C. Lee, R. Benzi, A. Muntean, F. Toschi. Fluctuations around mean walking behaviours in diluted pedestrian flows, Phys. Rev. E. 95, 032316, 2017](https://arxiv.org/abs/1610.07429)
 
-[2] [](A. Corbetta, J.A. Meeusen, C. Lee, F. Toschi. Continuous measurements of real-life bidirectional pedestrian flows on a wide walkway, Proceedings of Pedestrian and Evacuation Dynamics 2016, 18-24, 2016)
+[2] [A. Corbetta, J.A. Meeusen, C. Lee, F. Toschi. Continuous measurements of real-life bidirectional pedestrian flows on a wide walkway, Proceedings of Pedestrian and Evacuation Dynamics 2016, 18-24, 2016](https://arxiv.org/abs/1607.02897)
 
-[3] [](Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems. 2014.)
+[3] [Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems. 2014.](https://arxiv.org/abs/1409.3215)
