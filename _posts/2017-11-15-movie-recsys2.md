@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trailer Video Analysis for Movie Recommender Systems. 
+title: Trailer Video Analysis for Movie Recommender Systems 
 excerpt: ""
 modified: 11/15/2017, 11:00:00
 tags: [lstm, time series, neural networks, deep learning, recurrent neural networks, pedestrian tracking, trajectory modelling]
