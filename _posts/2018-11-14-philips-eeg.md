@@ -21,7 +21,11 @@ In this project, we are explore deep learning solutions for convenient EEG-based
 * Investigating influence of signal noise 
 * Etc
 
+This project is related to a possible internship in Philips Reserch and will involve supervision from Ulf Grossekathofer and Vlado Menkovski
+
+
 **References**
+
 Lotte, Fabien, et al. "A review of classification algorithms for EEG-based brain–computer interfaces: a 10 year update." Journal of neural engineering 15.3 (2018): 031005.
 
 Chaudhary, Ujwal, et al. "Brain–computer interface–based communication in the completely locked-in state." PLoS biology 15.1 (2017): e1002593.
