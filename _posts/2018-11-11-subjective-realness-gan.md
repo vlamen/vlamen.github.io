@@ -2,7 +2,7 @@
 layout: post
 title: Using subjective perception of realness to improve image generation 
 excerpt: "Generative Adverserial Networks have produced the exceeding reality in image generation. Can we use methods from psychometrics to improve this even further?"
-modified: 11/12/2017, 10:35:24
+modified: 11/12/2018, 10:35:24
 tags: [gan, generative, neural networks, deep learning, psychometrics, two-alternative forced-choice]
 comments: false
 category: mscproject

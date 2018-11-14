@@ -5,7 +5,7 @@ excerpt: "Deep learning in unsupervised settings for computer vision in robotics
 modified: 07/12/2017, 9:45:24
 tags: [unsupervised learning, robotics, computer vision, neural networks, deep learning, metric learning]
 comments: false
-category: mscproject
+category: mscfinished 
 ---
 
 Deep Learning (DL) methods have shown significant success learning complex model from low level data such as pixel in images or video [1]. In this master project, you will investigate how the little robot Cozmo can learn, by himself, the geometry of the space it lives in, using methods from unsupervised machine-learning. These methods can extract the most important features, and in fact underlying low-dimensional geometry in high-dimensional data [2][3][4]. The goal is to use this constructed geometry to orient it self in the given space.

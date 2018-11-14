@@ -2,7 +2,7 @@
 layout: post
 title: Learning efficient representations for pedestrian trajectories 
 excerpt: "Developing models for the shape of pedestrian trajectories can allow for developing pattern recognition methods for this type of data. Due to the high dimensionality of such time series data we consider deep recurrent neural network models."
-modified: 11/12/2017, 11:00:00
+modified: 11/12/2018, 11:00:00
 tags: [lstm, time series, neural networks, deep learning, recurrent neural networks, pedestrian tracking, trajectory modelling]
 comments: false
 category: mscproject
