@@ -5,7 +5,7 @@ excerpt: "Project of Christoforos Boukouvalas"
 modified: 07/22/2017, 9:00:24
 tags: [transfer learning, localization, image analysis, cnn, unet]
 comments: true
-category: mscrunning
+category: mscfinished
 ---
 
 Recent advances in deep learning (via deep neural networks with convolutional layers), have allowed for computer vision to approach the effectiveness of the human brain in many vision related tasks. There is however still room for improvement and optimizing the current considered state of the art architectures is not trivial. One reason being that the neural networks are “black boxes” as it is difficult to get insights on the operations executed within the deeper layers and on how they reach specific results. 
