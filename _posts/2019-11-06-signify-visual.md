@@ -16,3 +16,5 @@ Before the start of the project in February 2020, the candidate will:
  * study the use case in collaboration with the company and the state of the art in literature,
  * help the company defining the requirements for the collection of image data.
 
+Supervision: Loek Tonnaer, Mike Holenderski, Vlado Menkovski
+

@@ -25,6 +25,8 @@ The suggested approach is to extend a previously tested approach  that poses the
 
 Signify will provide the means and methods to obtain the required image data and will take care of a suitable image dataset for developing and testing new visual quality control methods.
 
+Supervision: Loek Tonnaer, Mike Holenderski, Vlado Menkovski
+
 [1]  Tonnaer, Loek & Li, Jiapeng & Osin, Vladimir & Holenderski, Mike & Menkovski, Vlado. (2019). Anomaly Detection for Visual Quality Control of 3D-Printed Products. 1-8. 10.1109/IJCNN.2019.8852372.
 
 [2]  Doersch, Carl. "Tutorial on variational autoencoders." arXiv preprint arXiv:1606.05908 (2016).
