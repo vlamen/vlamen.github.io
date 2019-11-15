@@ -4,9 +4,11 @@ excerpt: "Welcome page"
 ---
 
 
-I am an assistant professor at TU/e. My research interests lie in developing Machine Learning based solutions for natural sciences and high-tech industry. Some of my recent work includes detection of miRNA in bioinformatics [[1]](https://www.biorxiv.org/content/10.1101/840579v1.article-info), quantification of turbulence intenisty [[2]](https://arxiv.org/abs/1911.05718) and detection of state of plasma confinement in fusion in applied physics [[3]](https://arxiv.org/abs/1911.04234). I also work on improving how we use expert knowlege to build ML models [[4]](https://arxiv.org/abs/1901.08991)[[5]](https://arxiv.org/abs/1905.09523). 
+I am an assistant professor at TU/e. My research interests span from studying how Machine Learning approaches can benefit natural sciences to application in high-tech industry settings. I was recently lucky enough to be part of exciting collaborations that focused on detection of miRNA in bioinformatics [[1]](https://www.biorxiv.org/content/10.1101/840579v1.article-info), quantification of turbulence intenisty [[2]](https://arxiv.org/abs/1911.05718) and detection of state of plasma confinement in fusion in applied physics [[3]](https://arxiv.org/abs/1911.04234). I also work on improving how we use expert knowlege to build ML models [[4]](https://arxiv.org/abs/1901.08991)[[5]](https://arxiv.org/abs/1905.09523). For a list of selected publications click [here]({{site.url}}/publications/)
 
 [Personal page @TU/e](https://www.tue.nl/en/research/researchers/vlado-menkovski/)
+
+[Data mining page @TU/e](https://www.tue.nl/en/research/research-groups/data-mining/)
 
 [List of open MSc project (Updated! Nov/2019)]({{site.url}}/mscprojects/)
 
