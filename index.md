@@ -4,29 +4,38 @@ excerpt: "Welcome page"
 ---
 
 
-I am part of the Data Mining group at Eindhoven University of Technology. My interests lie in all areas of Machine Learning, Representation Learning and particular applications of Deep Learning to Natural Language Processing, Computational Biology and Computer Vision.
+I am an assistant professor at TU/e. My research interests lie in developing Machine Learning based solutions for natural sciences and high-tech industry. Some of my recent work includes detection of miRNA in bioinformatics [[1]](https://www.biorxiv.org/content/10.1101/840579v1.article-info), quantification of turbulence intenisty [[2]](https://arxiv.org/abs/1911.05718) and detection of state of plasma confinement in fusion in applied physics [[3]](https://arxiv.org/abs/1911.04234). I also work on improving how we use expert knowlege to build ML models [[4]](Diffusion Variational Autoencoders)[[5]](https://arxiv.org/abs/1905.09523). 
 
-[Data Mining Group @TU/e](https://www.tue.nl/en/research/research-centers/data-science-center-eindhoven-dsce/research/dsce-research-groups/data-mining-dm/)
+[Personal page @TU/e](https://www.tue.nl/en/research/researchers/vlado-menkovski/)
 
-[Department of Computer Science @TU/e](http://w3.win.tue.nl/en/)
-
-[TU/e website](http://www.tue.nl)
-
+[List of open MSc project (Updated! Nov/2019)]({{site.url}}/mscprojects/)
 
 # Announcements
 
-**[July 2017]**
+**[November 2019]**
 
-We have multiple PhD and Postdoc positions in machine learning inluding applications of deep learning. More info on the group website, prof. Pechenizkiy's [website](http://www.win.tue.nl/~mpechen/) and the TU/e vaccancy [website](https://jobs.tue.nl/en/vacancies.html). Please contact us by email if you are interested or apply on the TU/e vacancy [website](https://jobs.tue.nl/en/vacancies.html). 
+PhD positions available on the MADEin4 Project. More details: [here](https://jobs.tue.nl/en/vacancy/phd-position-madein4-813304.html) 
 
-# Students, projects and collaborations
+# Projects and collaborations
+* [**Alessandro Corbetta**](http://corbetta.phys.tue.nl/), [**Roberto Benzi**](https://scholar.google.com/citations?user=QJeFmVEAAAAJ&hl=en), [**Federico Toschi**](http://toschi.phys.tue.nl/)
+	* [Deep learning velocity signals allows to quantify turbulence intensity](https://arxiv.org/abs/1911.05718)
 
-* **Iftitahu Ni'mah, Oren Zeev Ben Mordehay, Simon van der Zon, [Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/), [Mykola Pechenizkiy](http://www.win.tue.nl/~mpechen/)**
-	* Project: mpulseKYC-Analytics (with Rabobank)
-	* Topics: Natural Language Processing, learning feature representation from unstructured and text data
+* [**Luis Perez Rey**](), [**Jim Portegis**]()
+	* [Diffusion Variational Autoencoders](https://arxiv.org/abs/1901.08991)
 
-* **Stefan Thaler** 
-	* Topics: Modelling sequential data for Computer Security ([publications]({{site.url}}/publications/))
+* [**Francisco Matos**](), [**Federico Felici**](), [**Alessandro Pau**]()
+	* [Classification of tokamak plasma confinement states with convolutional recurrent neural networks](https://arxiv.org/abs/1911.04234)
 
-* [**dr. Alessandro Corbetta**](http://corbetta.phys.tue.nl/), [**Federico Toschi**](http://toschi.phys.tue.nl/)
-	* Computer vision for pedestrian tracking ([publications]({{site.url}}/publications/))
+* [**Jorge Cordero**](), [**Jens Allmer**]()
+	* [Detection of pre-microRNA with Convolutional Neural Networks](https://www.biorxiv.org/content/10.1101/840579v1.article-info)
+
+
+# PhD  Students
+* [**Tita Ni'Mah**]()
+* [**Loek Tonnaer**]()
+* [**Marijn Knippenberg**]()
+* [**Yuhao Wang**]()
+* [**Tianjin Huang**]()
+* [**Lu Yin**]()
+* [**Georgios Vlassopoulos**]() 
+* [**Stefan Thaler**]() (graduated) [thesis](https://www.win.tue.nl/ipa/?event=automation-for-information-security-using-machine-learning)

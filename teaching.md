@@ -5,16 +5,10 @@ excerpt: "Courses"
 ---
 
 
-## Recommender Systems
+## Deep Learning (2IMM10)
 
- Coming soon...
+The course starts in quartile 4 2020. 
 
-
-## Foundations of Data Mining
-
- Coming soon...
+ More details coming soon...
 
 
-## Data Challenge 1
-
- Coming soon...
