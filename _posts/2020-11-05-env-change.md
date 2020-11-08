@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tracking and predicting environmental change through sequential image segmentation
-excerpt: "Simulation of bubbles..."
+excerpt: "Analyse satellite images to learn about the size of glaciers, the presence of forest fires, or the state of large coral reefs"
 modified: 11/05/2020, 10:35:24
 tags: [deep learning, image segmentation, generative models, satellite images, environmental change]
 comments: false
