@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ML for Scanning Electron Microscopy with Polarization Analysis 
-excerpt: "Scanning Electron Microscopy with Polarization Analysis"
+excerpt: "The goal of this project is developing machine learning models that can support the analysis of Scanning Electron Microscopy with Polarization Analysis (SEMPA) images."
 modified: 11/05/2020, 10:35:24
 tags: [generative models, electron microscopy, phyiscs]
 comments: false
