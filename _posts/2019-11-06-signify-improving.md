@@ -5,7 +5,7 @@ excerpt: "At Signify we are investigating and implementing automated visual qual
 modified: 11/13/2019, 10:35:24
 tags: [deep learning]
 comments: false
-category: mscproject
+category: mscfinished
 ---
 
 The goal of this assignment is to investigate and implement new methods for visual quality control, based on images of products after they have been manufactured in 3D printers. Our previous approaches used flatbed scanners to obtain images of the surface of one particular product. These images were then manually checked for possible defects, thus obtaining an image data set suitable for machine learning. Several deep learning methods were evaluated for the fault detection.

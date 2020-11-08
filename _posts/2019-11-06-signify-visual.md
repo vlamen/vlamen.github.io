@@ -5,7 +5,7 @@ excerpt: "At Signify, we are investigating the application of vision-based solut
 modified: 11/13/2019, 10:35:24
 tags: [deep learning]
 comments: false
-category: mscproject
+category: mscfinished
 ---
 
 The goal of this assignment is to develop vision-based systems to prevent delamination during the 3D printing process. Cameras mounted inside the printer will capture images of the products from different angles, while intelligent algorithms, based on machine learning, will be trained on these images to detect delamination (also known as the “spaghetti” problem).  Based on the detection results, the printing process will be aborted or continued. The project will explore recent approaches in machine learning including semi-supervised learning, Bayesian generative models, variational inference and data augmentation. 
