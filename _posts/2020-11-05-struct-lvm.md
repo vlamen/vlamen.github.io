@@ -14,8 +14,7 @@ Because the different sensors are registered at different frequencies, and diffe
  
 Because not all machines have the same sensors and subsystems, and because the context in which the machines operate varies, the model we use needs to be flexible. This is where Bayesian Networks come into play: they provide a way of building models that can combine information from different sources and can handle unknown and unobserved variables. The end goal is to not only detect but also explain anomalies in terms of partially provided labels. 
  
-
-#![pre-miRNA-detection](../../images/posts/mirna-detect.png)
+This project may be also done as a internship with Thermo Fisher, conditioned on their approval.  
 
 Supervisor: Vlado Menkovski, Mike Holenderski, Simon Koop
 

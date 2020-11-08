@@ -13,8 +13,6 @@ Using deep neural networks for semantic image segmentation, we can analyse satel
 We’d like to have a couple of related projects on analysing sequences of image. There’s also a group of honours bachelor students involved in a related project on tracking deforestation. Satellite images are freely available in abundance and their analysis is a topic of interest in many other fields. However, other ideas around analysing images over time are also very welcome.
  
 
-#![pre-miRNA-detection](../../images/posts/mirna-detect.png)
-
 Supervisor: Vlado Menkovski, Simon Koop
 
 
