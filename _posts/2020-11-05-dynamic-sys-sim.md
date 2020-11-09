@@ -10,7 +10,6 @@ category: mscproject
 
  
 
-#![pre-miRNA-detection](../../images/posts/mirna-detect.png)
 
 Supervisor: Vlado Menkovski, Alessandro Corbetta
 
