@@ -10,13 +10,15 @@ I am an assistant professor at TU/e. My research interests span from studying ho
 
 [Data mining page @TU/e](https://www.tue.nl/en/research/research-groups/data-mining/)
 
-[List of open MSc project (Updated! Nov/2019)]({{site.url}}/mscprojects/)
+[List of open MSc project (Updated! Nov/2020)]({{site.url}}/mscprojects/)
 
-# Announcements
+<!--# Announcements
 
 **[November 2019]**
 
 PhD positions available on the MADEin4 Project. More details: [here](https://jobs.tue.nl/en/vacancy/phd-position-madein4-813304.html) 
+
+-->
 
 # Projects and collaborations
 * [**Alessandro Corbetta**](http://corbetta.phys.tue.nl/), [**Roberto Benzi**](https://scholar.google.com/citations?user=QJeFmVEAAAAJ&hl=en), [**Federico Toschi**](http://toschi.phys.tue.nl/)
@@ -36,8 +38,8 @@ PhD positions available on the MADEin4 Project. More details: [here](https://job
 * [**Tita Ni'Mah**]()
 * [**Loek Tonnaer**]()
 * [**Marijn Knippenberg**]()
-* [**Yuhao Wang**]()
 * [**Tianjin Huang**]()
 * [**Lu Yin**]()
+* [**Simon Koop**]()
 * [**Georgios Vlassopoulos**]() 
 * [**Stefan Thaler**]() (graduated) [thesis](https://www.win.tue.nl/ipa/?event=automation-for-information-security-using-machine-learning)
