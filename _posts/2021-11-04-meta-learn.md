@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aspect-based Few-shot classification (Meta-learning) 
-excerpt: ""
+excerpt: "The goal of this project is to extend the capabilities of meta-learning models towards aspects-based meta-learning with Psychometric testing."
 modified: 04/11/2021, 10:35:24
 tags: [few-shot classification, meta learning, deep learning, psychometric learning]
 comments: false
