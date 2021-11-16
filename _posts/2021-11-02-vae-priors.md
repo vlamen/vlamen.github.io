@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learnable and interpretable priors for VAEs 
-excerpt: ""
+excerpt: "In a VAE, we typically have a fixed prior distribution p(z) on the latent space, which the encoder q(z|x) tries to match. However, in practice, the actual distribution of codes according to the encoder (taken over all datapoints) typically doesn’t actually resemble the prior distribution."
 modified: 02/11/2021, 10:35:24
 tags: [Deep learning, generative models, neural networks, VAE, Variational Auto Encoders, energy based models, EBM]
 comments: false
