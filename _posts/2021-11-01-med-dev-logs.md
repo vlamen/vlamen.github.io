@@ -5,7 +5,7 @@ excerpt: "The goal of this project is to assist service engineers during remote 
 modified: 11/07/2021, 10:35:24
 tags: [Deep Learning, Natural Language Processing, Predictive Maintenance]
 comments: false
-category: mscproject
+category: mscfinished
 ---
 
 The goal of this project is to assist service engineers during remote maintenance activities of medical systems. When a system exhibits a problem, service engineers first try to diagnose the problem remotely and then decide the appropriate repair action(s) to take in order to remedy the problem. In more complicated problems, the repair actions frequently include replacing one or more parts of the system.
