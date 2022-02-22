@@ -5,7 +5,7 @@ excerpt: "The goal of this project is developing machine learning models that ca
 modified: 11/05/2020, 10:35:24
 tags: [generative models, electron microscopy, phyiscs]
 comments: false
-category: mscproject
+category: mscfinished
 ---
 
 The development of next generation of magnetic data storage devices requires beter understanding of physical effects at nanoscale structures of certain materials [1, 2]. The goal of this project is developing machine learning models that can support the analysis of Scanning Electron Microscopy with Polarization Analysis (SEMPA) images.  
