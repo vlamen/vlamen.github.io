@@ -5,7 +5,7 @@ excerpt: "The goal of this project is to extend the capabilities of meta-learnin
 modified: 04/11/2021, 10:35:24
 tags: [few-shot classification, meta learning, deep learning, psychometric learning]
 comments: false
-category: mscproject
+category: mscrunning
 ---
 
 Meta-learning (also referred to as learning to learn) is a set of Machine Learning techniques that aim to learn quickly from a few given examples in changing environments [1]. One instantiation of the meta-learning is the task of Few-shot classification.
