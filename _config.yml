@@ -8,13 +8,13 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Vlado Menkovski
   avatar: vlado.jpg
-  bio: "Assistant Professor at Eindhoven University of Technology."
+  bio: "Associate Professor at Eindhoven University of Technology."
   email: v.[lastname]@tue.nl 
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
   github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0001-5262-0605
   researchgate: #username
   mendeley: #username
   google:
