@@ -36,12 +36,13 @@ PhD positions available on the MADEin4 Project. More details: [here](https://job
 
 # PhD  Students
 * [**Tita Ni'Mah**](https://research.tue.nl/en/persons/iftitahu-nimah)
-* [**Loek Tonnaer**](https://research.tue.nl/en/persons/loek-ma-tonnaer)
+* 
 * [**Marijn Knippenberg**](https://research.tue.nl/en/persons/marijn-s-van-knippenberg)
-* [**Tianjin Huang**](https://research.tue.nl/en/persons/tianjin-huang)
-* [**Lu Yin**](https://research.tue.nl/en/persons/lu-yin)
 * [**Simon Koop**](https://research.tue.nl/nl/persons/simon-m-koop)
 * [**Mahefa Ravelonanosy**](https://research.tue.nl/en/persons/mahefa-ravelonanosy)
 * [**Koen Minartz**](https://research.tue.nl/en/persons/koen-minartz)
-* [**Fleur Hendrix**](https://research.tue.nl/en/persons/fleur-hendriks) 
+* [**Fleur Hendriks**](https://research.tue.nl/en/persons/fleur-hendriks)
+* [**Tianjin Huang**] (graduated) [thesis]()
+* [**Lu Yin**] (graduated) [thesis]()
+* [**Loek Tonnaer**] (graduated) [thesis](https://research.tue.nl/en/publications/linearly-symmetry-based-disentangled-representations-and-their-ou)
 * [**Stefan Thaler**]() (graduated) [thesis](https://www.win.tue.nl/ipa/?event=automation-for-information-security-using-machine-learning)
